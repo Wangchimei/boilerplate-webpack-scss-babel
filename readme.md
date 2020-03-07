@@ -1,5 +1,7 @@
 # Webpack 4 Boilerplate with SASS, Babel, HTML
 
+[![npm version](https://badge.fury.io/js/webpack_scss_babel_boilerplate.svg)](https://badge.fury.io/js/webpack_scss_babel_boilerplate)
+
 A boilerplate to start up your web development faster and easier. :rocket:  
 (Webpack 4 + HTML + SASS + Babel + ES6 + Livereload)
 
@@ -140,4 +142,4 @@ npm run bs:clear
 
 ## License
 
-MIT[LICENSE]
+[MIT](LICENSE)
