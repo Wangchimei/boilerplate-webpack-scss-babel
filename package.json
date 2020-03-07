@@ -1,0 +1,28 @@
+{
+  "name": "webpack_scss_babel_boilerplate",
+  "version": "1.0.0",
+  "description": "A Webpack boilerplate for html, scss and babel.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wangchimei/boilerplate-webpack-scss-babel.git"
+  },
+  "keywords": [
+    "boilerplate",
+    "scss",
+    "webpack",
+    "babel",
+    "html"
+  ],
+  "author": "Wangchimei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wangchimei/boilerplate-webpack-scss-babel/issues"
+  },
+  "homepage": "https://github.com/Wangchimei/boilerplate-webpack-scss-babel#readme",
+  "devDependencies": {
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
