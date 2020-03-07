@@ -1,5 +1,6 @@
 @import 'partials/variables';
 @import 'partials/mixins';
+@import '~bootstrap';
 
 body {
   @include content-center;

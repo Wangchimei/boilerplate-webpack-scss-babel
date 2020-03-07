@@ -1,4 +1,8 @@
 import module from './scripts/module';
 import './styles/main.scss';
 
-console.log('index.js loaded');
+const greet = name => {
+  console.log(`${name}.js loaded`);
+};
+
+greet(index);
