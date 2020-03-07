@@ -1,6 +1,6 @@
 {
   "name": "webpack_scss_babel_boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Webpack boilerplate for html, scss and babel.js",
   "main": "index.js",
   "scripts": {
