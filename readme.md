@@ -104,7 +104,6 @@ npm run serve
 
   ```
   @import '~bootstrap';
-
   ```
 
 - Bootstrap + jQuery + Popper.js
