@@ -32,6 +32,27 @@ A boilerplate to start up your web development faster and easier. :rocket:
 - Mini CSS Extract Plugin v0.9.0
 - Clean Webpack Plugin v3.0.0
 
+## File Structures
+
+    .
+    ├── dist                     # Generated files
+    │   ├── development
+    │   └── production
+    ├── src                      # Source files
+    │   ├── images
+    │   ├── scripts
+    │   ├── styles
+    │   │   ├── partials
+    │   │   └── main.scss
+    │   ├── index.js
+    │   ├── template.html
+    │   └── vendor.js            # For all vendor js
+    ├── webpack                  # Webpack config files
+    │   ├── webpack.common.js
+    │   ├── webpack.dev.js
+    │   └── webpack.prod.js
+    └── ...
+
 ## How to start
 
 1. Clone this repo or [Download a zip file](https://github.com/Wangchimei/boilerplate-webpack-scss-babel/archive/master.zip)
