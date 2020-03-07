@@ -6,7 +6,7 @@ module.exports = merge(common, {
   mode: 'development',
   output: {
     path: path.resolve('dist'),
-    filename: 'bundle.js',
+    filename: '[name].bundle.js',
   },
   module: {
     rules: [],
