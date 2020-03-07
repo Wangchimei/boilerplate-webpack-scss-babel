@@ -1,0 +1,9 @@
+@import 'partials/variables';
+@import 'partials/mixins';
+
+body {
+  @include content-center;
+  height: 100vh;
+  color: #fff;
+  background-color: $theme-color;
+}
