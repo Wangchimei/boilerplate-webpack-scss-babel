@@ -53,25 +53,39 @@ A boilerplate to start up your web development faster and easier. :rocket:
     │   └── webpack.prod.js
     └── ...
 
-## How to start
+## How to Start
 
-1. Clone this repo or [Download a zip file](https://github.com/Wangchimei/boilerplate-webpack-scss-babel/archive/master.zip)
+You can start using this repo through
 
-   ```
-   git clone git@github.com:Wangchimei/boilerplate-webpack-scss-babel.git
-   ```
+1. [Download](https://github.com/Wangchimei/boilerplate-webpack-scss-babel/archive/master.zip)
 
-2. (Re)initialize git
+2. Git
 
-   ```
-   git init
-   ```
+   - First, make sure you are in the new project file your created.
+   - If you have not yet Initialized
+     ```
+     git init
+     ```
+   - Add this repo to git remote
+     ```
+     git remote add boilerplate git@github.com:Wangchimei/boilerplate-webpack-scss-babel.git
+     ```
+   - Pull the repo to your local directory
+     ```
+     git pull boilerplate master
+     ```
+   - Remove this remote URL from your repository
+     ```
+     git remote rm boilerplate
+     ```
 
-3. Install the dependencies
+After you successfully download or pull from this repo
 
-   ```
-   npm install
-   ```
+- Install the dependencies
+
+  ```
+  npm install
+  ```
 
 ## Usage
 
